@@ -1,0 +1,48 @@
+body{
+  max-width: 40em;
+  margin: auto;
+  font-family: 'Forum';
+  font-size: 1.1em;
+}
+
+a{
+  color: #333;
+  text-decoration: none;
+}
+
+h1{
+  font-family: 'Kanit', sans-serif;
+  /* font-weight: bold; */
+  /* letter-spacing: 3px; */
+  
+}
+
+#site-title{
+  text-align: center;
+  font-size: 80px;
+  margin: 10px;
+}
+
+nav{
+  text-align: center;
+  font-size: 1.2em;
+}
+
+nav a {
+  padding: 0px 10px 0px 10px;
+  margin: 0 10px 0 10px;
+  background-color: lightskyblue;
+  border-radius: 3px;
+}
+
+.pagination-item{
+  padding: 0px 10px 0px 10px;
+  margin: 0 10px 0 10px;
+  background-color: lightskyblue;
+  border-radius: 3px;
+  margin-bottom: 2em;
+}
+
+.pagination{
+  margin-bottom: 2em;
+}
