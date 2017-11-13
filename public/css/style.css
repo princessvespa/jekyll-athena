@@ -31,8 +31,13 @@ nav{
 nav a {
   padding: 0px 10px 0px 10px;
   margin: 0 10px 0 10px;
-  background-color: lightskyblue;
-  border-radius: 3px;
+  border-bottom: black solid 1px;
+}
+
+nav a:hover {
+  border-bottom: lightblue solid 2px;
+  position: relative;
+  top: -2px;
 }
 
 .pagination-item{
