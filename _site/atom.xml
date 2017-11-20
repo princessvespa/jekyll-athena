@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+
+ <title>Dracula vs.Einstein</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-11-20T19:42:33+13:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Sisters</title>
+   <link href="http://localhost:4000/2017/11/12/sisters/"/>
+   <updated>2017-11-12T00:00:00+13:00</updated>
+   <id>http://localhost:4000/2017/11/12/sisters</id>
+   <content type="html">&lt;p&gt;18 months old and a stranger came into my life. She was small and her face wrinkled. My mother introduced her as my sister. Natane was her name.&lt;/p&gt;
+
+&lt;p&gt;Six years old and I have found myself a stalker. She is curly haired, annoying and munchkin sized. My mom tells me to be nice.  I pinch her arm, she kicks my shin.&lt;/p&gt;
+
+&lt;p&gt;Nine years old and my dad is drunk. My sister and I huddle under the blankets and pretend we are somewhere else. Somewhere different.  Free from plates shattering and moms crying and scary dads with angry eyes. A place we feel safe.&lt;/p&gt;
+
+&lt;p&gt;Thirteen years old and we both have cold toes. The frost bites at us, and the inky sky blankets us overhead. We have snuck outside to watch the fireworks go boom celebrating some old English plot. We shiver while exchanging smiles our eyes filled with gunpowder.&lt;/p&gt;
+
+&lt;p&gt;Eighteen years old and we are yelling obscenities at each other. Her breath smells like vodka. She says she hates me. I say fuck off.&lt;/p&gt;
+
+&lt;p&gt;Twenty years old and she hugs me. She smells like jasmine and cigarettes and my tears soak her cotton t-shirt. My heart had just been broken, she pats my back and tells me boys are stupid. I agree.&lt;/p&gt;
+
+&lt;p&gt;Twenty three and I feel the music hum and snap through my bones. I hug the walls and sip on a juice at my sisters leaving party. She’s leaving for Melbourne. My eyes are dry, but my heart is sore. She’s my little sister. And she’s leaving.&lt;/p&gt;
+
+&lt;p&gt;Twenty four years old, and I answer my phone. My mom choking on tears says my sister has tried to jump from her apartment balancy. All 46th floors. I hang up. I feel sick.&lt;/p&gt;
+
+&lt;p&gt;I make arrangements. I would move moving fucking asteroids for her, so booking a flight is easy.  I get to her. She greets me with a smile and a hug pushing flowers into my face. She looks happy but her smile is worn and her eyes sad.&lt;/p&gt;
+
+&lt;p&gt;She drinks too much. And laughs too loud. She curses and her drawers rattle with the sound of pharmaceuticals. Pop a pill, chase away the sad. She is still my sister. But. It is different. She’s wearing a mask of someone else.&lt;/p&gt;
+
+&lt;p&gt;Sisterhood is weird. It’s not something always cute and fluffy like the travelling pants sisterhood or something like that. It’s painful. And gritty. Don’t get me wrong. Having a sister is filled with moments of laughing so hard you get a cramp.&lt;/p&gt;
+
+&lt;p&gt;It’s mixed. Being tied to someone not just from blood and heritage, but from memories, from shared smiles, tears, fears and hopes. That’s painful. That’s scary.&lt;/p&gt;
+
+&lt;p&gt;Sisters are a special relationship. She is the person who you have known for your entire life. She is the one who will knee a boy in the balls because he was being mean to you. She is the one who will braid your hair and share a secret smile with you.&lt;/p&gt;
+
+&lt;p&gt;She is also the one who has the power to drive a knife right to your heart.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
