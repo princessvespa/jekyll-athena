@@ -4,7 +4,7 @@ title: History
 description: 
 
 ---
-
+<h2>History</h2>
 <div class="posts">
   {% for post in site.tags.history %}
   <div class="post">
@@ -14,12 +14,55 @@ description:
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.excerpt }}
-    <hr>
+  
   </div>
   {% endfor %}
 </div>
 
+
+<h2>Fantasy</h2>
+<div class="posts">
+  {% for post in site.tags.fantasy %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+  
+  </div>
+  {% endfor %}
+</div>
+
+<h2>Travel</h2>
+<div class="posts">
+  {% for post in site.tags.misc %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+  
+  </div>
+  {% endfor %}
+</div>
+
+
+<h2>Misc</h2>
+<div class="posts">
+  {% for post in site.tags.misc %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+  
+  </div>
+  {% endfor %}
+</div>
 
