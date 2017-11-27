@@ -61,7 +61,16 @@ h1 {
     float: right;
     }
 
+h2
 
+{   font-family: 'Open Sans', sans-serif;
+    margin-top: 10em;
+    font-size:20px;
+    color:lightgray;
+        
+    
+    
+}
 
 
 nav{
@@ -90,6 +99,8 @@ nav a:hover {
    
    
 }
+
+
 
 
 .pagination-item{
